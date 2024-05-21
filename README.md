@@ -1,1 +1,1 @@
-# gn-proxy
+# numbat-proxy
