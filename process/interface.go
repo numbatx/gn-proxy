@@ -1,8 +1,8 @@
 package process
 
 import (
-	"github.com/numbatx/numbat-proxy/config"
-	"github.com/numbatx/numbat-proxy/data"
+	"github.com/numbatx/gn-proxy/config"
+	"github.com/numbatx/gn-proxy/data"
 )
 
 // Processor defines what a processor should be able to do

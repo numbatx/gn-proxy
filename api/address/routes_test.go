@@ -12,11 +12,11 @@ import (
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
-	"github.com/numbatx/numbat-proxy/api"
-	"github.com/numbatx/numbat-proxy/api/address"
-	apiErrors "github.com/numbatx/numbat-proxy/api/errors"
-	"github.com/numbatx/numbat-proxy/api/mock"
-	"github.com/numbatx/numbat-proxy/data"
+	"github.com/numbatx/gn-proxy/api"
+	"github.com/numbatx/gn-proxy/api/address"
+	apiErrors "github.com/numbatx/gn-proxy/api/errors"
+	"github.com/numbatx/gn-proxy/api/mock"
+	"github.com/numbatx/gn-proxy/data"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,6 +1,6 @@
 package config
 
-import "github.com/numbatx/numbat-proxy/data"
+import "github.com/numbatx/gn-proxy/data"
 
 // GeneralSettingsConfig will hold the general settings for a node
 type GeneralSettingsConfig struct {

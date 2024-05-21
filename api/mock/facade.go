@@ -3,7 +3,7 @@ package mock
 import (
 	"math/big"
 
-	"github.com/numbatx/numbat-proxy/data"
+	"github.com/numbatx/gn-proxy/data"
 )
 
 // Facade is the mock implementation of a node router handler

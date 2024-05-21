@@ -9,10 +9,10 @@ import (
 
 	"github.com/gin-gonic/gin/json"
 	"github.com/numbatx/gn-numbat/data/state"
-	"github.com/numbatx/numbat-proxy/config"
-	"github.com/numbatx/numbat-proxy/data"
-	"github.com/numbatx/numbat-proxy/process"
-	"github.com/numbatx/numbat-proxy/process/mock"
+	"github.com/numbatx/gn-proxy/config"
+	"github.com/numbatx/gn-proxy/data"
+	"github.com/numbatx/gn-proxy/process"
+	"github.com/numbatx/gn-proxy/process/mock"
 	"github.com/stretchr/testify/assert"
 )
 

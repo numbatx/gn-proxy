@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/numbatx/numbat-proxy/data"
+	"github.com/numbatx/gn-proxy/data"
 )
 
 // AddressPath defines the address path at which the nodes answer

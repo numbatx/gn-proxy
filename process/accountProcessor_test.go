@@ -4,9 +4,9 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/numbatx/numbat-proxy/data"
-	"github.com/numbatx/numbat-proxy/process"
-	"github.com/numbatx/numbat-proxy/process/mock"
+	"github.com/numbatx/gn-proxy/data"
+	"github.com/numbatx/gn-proxy/process"
+	"github.com/numbatx/gn-proxy/process/mock"
 	"github.com/stretchr/testify/assert"
 )
 

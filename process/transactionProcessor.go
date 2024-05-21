@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/numbatx/numbat-proxy/data"
+	"github.com/numbatx/gn-proxy/data"
 )
 
 // TransactionPath defines the address path at which the nodes answer

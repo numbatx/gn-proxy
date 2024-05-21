@@ -1,8 +1,8 @@
 package mock
 
 import (
-	"github.com/numbatx/numbat-proxy/config"
-	"github.com/numbatx/numbat-proxy/data"
+	"github.com/numbatx/gn-proxy/config"
+	"github.com/numbatx/gn-proxy/data"
 	"github.com/pkg/errors"
 )
 

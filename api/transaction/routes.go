@@ -6,8 +6,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/numbatx/numbat-proxy/api/errors"
-	"github.com/numbatx/numbat-proxy/data"
+	"github.com/numbatx/gn-proxy/api/errors"
+	"github.com/numbatx/gn-proxy/data"
 )
 
 // Routes defines transaction related routes

@@ -9,8 +9,8 @@ import (
 	"github.com/numbatx/gn-numbat/core/logger"
 	"github.com/numbatx/gn-numbat/data/state"
 	"github.com/numbatx/gn-numbat/sharding"
-	"github.com/numbatx/numbat-proxy/config"
-	"github.com/numbatx/numbat-proxy/data"
+	"github.com/numbatx/gn-proxy/config"
+	"github.com/numbatx/gn-proxy/data"
 )
 
 var log = logger.DefaultLogger()

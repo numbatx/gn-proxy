@@ -7,8 +7,8 @@ import (
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
-	"github.com/numbatx/numbat-proxy/api/address"
-	"github.com/numbatx/numbat-proxy/api/transaction"
+	"github.com/numbatx/gn-proxy/api/address"
+	"github.com/numbatx/gn-proxy/api/transaction"
 	"gopkg.in/go-playground/validator.v8"
 )
 

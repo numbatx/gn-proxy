@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	"github.com/numbatx/gn-numbat/core/logger"
-	"github.com/numbatx/numbat-proxy/data"
+	"github.com/numbatx/gn-proxy/data"
 )
 
 var log = logger.DefaultLogger()

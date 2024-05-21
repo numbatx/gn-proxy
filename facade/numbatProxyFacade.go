@@ -3,7 +3,7 @@ package facade
 import (
 	"math/big"
 
-	"github.com/numbatx/numbat-proxy/data"
+	"github.com/numbatx/gn-proxy/data"
 )
 
 // NumbatProxyFacade implements the facade used in api calls

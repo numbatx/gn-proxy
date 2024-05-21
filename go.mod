@@ -1,4 +1,4 @@
-module github.com/numbatx/numbat-proxy
+module github.com/numbatx/gn-proxy
 
 go 1.20
 
